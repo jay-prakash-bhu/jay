@@ -1,4 +1,4 @@
-# Hi 👋, I'm <span style="color:#007bff;">Jay </span>  
+# Hi 👋, I'm <span style="color:#007bff;">Jay</span>  
 ### A passionate data science enthusiast from India  
 
 ---
